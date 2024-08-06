@@ -1,6 +1,7 @@
 # IPGuard
 
 IPGuard is a simple tool for managing a list of blocked IP addresses. It allows you to block malicious IP addresses for a specified duration and automatically removes the IPs from the block list once the duration expires.
+This library can be used in Flask or Django ( better to use in a middleware )
 
 ## Features
 
